@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d65b0fe-abf2-4b61-be8e-b47707bb873b" name="Default Changelist" comment="" />
+    <list default="true" id="6d65b0fe-abf2-4b61-be8e-b47707bb873b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ik27Y61MmvInrHeoRORGUQzttv" />
@@ -35,11 +42,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602437102604</updated>
-      <workItem from="1602437103771" duration="430000" />
+      <workItem from="1602437103771" duration="1042000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1602437607776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602437607776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="-638" key="Github.ShareDialog" timestamp="1602437467916">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="832" y="-638" key="Github.ShareDialog/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602437467916" />
+    <state x="552" y="-811" key="Vcs.Push.Dialog.v2" timestamp="1602438137189">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="552" y="-811" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602438137189" />
+    <state x="774" y="-652" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602438121977">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="774" y="-652" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602438121977" />
   </component>
 </project>
