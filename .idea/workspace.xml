@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d65b0fe-abf2-4b61-be8e-b47707bb873b" name="Default Changelist" comment="Login and register system template">
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+    <list default="true" id="6d65b0fe-abf2-4b61-be8e-b47707bb873b" name="Default Changelist" comment="Router template">
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/test-components/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/test-components/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -105,7 +106,7 @@
       <workItem from="1602438212499" duration="329000" />
       <workItem from="1602576859800" duration="19000" />
       <workItem from="1602589628491" duration="3742000" />
-      <workItem from="1602690362122" duration="2042000" />
+      <workItem from="1602690362122" duration="7539000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1602437607776</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602592676257</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Router template">
+      <created>1602693187646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602693187646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="Login and register system template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login and register system template" />
+    <MESSAGE value="Router template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Router template" />
   </component>
   <component name="WindowStateProjectService">
     <state x="689" y="-720" key="#Notifications" timestamp="1602438532564">
@@ -172,22 +181,22 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="832" y="-638" key="Github.ShareDialog/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602437467916" />
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1602605624007">
+    <state width="1899" height="166" key="GridCell.Tab.0.bottom" timestamp="1602696725524">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602605624007" />
-    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1602605624007">
+    <state width="1899" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602696725524" />
+    <state width="1899" height="166" key="GridCell.Tab.0.center" timestamp="1602696725524">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602605624007" />
-    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1602605624007">
+    <state width="1899" height="166" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602696725524" />
+    <state width="1899" height="166" key="GridCell.Tab.0.left" timestamp="1602696725524">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602605624007" />
-    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1602605624007">
+    <state width="1899" height="166" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602696725524" />
+    <state width="1899" height="166" key="GridCell.Tab.0.right" timestamp="1602696725524">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602605624007" />
+    <state width="1899" height="166" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602696725524" />
     <state width="1899" height="356" key="GridCell.Tab.1.bottom" timestamp="1602605622928">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
@@ -244,10 +253,10 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="757" y="-921" key="RollbackChangesDialog/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602592452383" />
-    <state x="552" y="-811" key="Vcs.Push.Dialog.v2" timestamp="1602592679183">
+    <state x="552" y="-811" key="Vcs.Push.Dialog.v2" timestamp="1602693190955">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="552" y="-811" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602592679183" />
+    <state x="552" y="-811" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1602693190955" />
     <state x="777" y="-630" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602438547937">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
