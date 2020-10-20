@@ -38,5 +38,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nastoletnipl/nastoletni-pl-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastoletnipl/nastoletni-pl-frontend/issues"
+  },
+  "homepage": "https://github.com/nastoletnipl/nastoletni-pl-frontend#readme",
+  "description": ""
 }
