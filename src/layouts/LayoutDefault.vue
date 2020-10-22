@@ -23,7 +23,7 @@
     padding: 4rem 3.5rem 0 3.5rem;
 
     &__content {
-      padding: 4.5rem 0 0 0;
+      padding: 5.5rem 0 0 0;
     }
   }
 </style>

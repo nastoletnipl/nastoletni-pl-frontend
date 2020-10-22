@@ -87,7 +87,7 @@
       right: 60px;
       height: 10px;
       width: 45px;
-      background: rgba(197, 0, 255, 0.3);
+      background: rgba(197, 0, 255, 0.7);
       z-index: -1;
     }
   }
